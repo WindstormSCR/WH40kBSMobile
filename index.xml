@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<dataIndex battleScribeVersion="2.01" name="WH40k8thMobileFormat" indexUrl="https://github.com/WindstormSCR/WH40kBSMobile/raw/master/WH40k8th.bsr" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+<dataIndex battleScribeVersion="2.01" name="WH40k8thMobileFormat" indexUrl="https://github.com/WindstormSCR/WH40kBSMobile/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
     <dataIndexEntry filePath="WH40k_8th.gstz" dataType="gamesystem" dataId="0b29-8e58-e248-9ac9" dataName="WH40k 8th" dataBattleScribeVersion="2.01" dataRevision="10"/>
