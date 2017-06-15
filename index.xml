@@ -2,7 +2,7 @@
 <dataIndex battleScribeVersion="2.01" name="WH40k8thMobileFormat" indexUrl="https://github.com/WindstormSCR/WH40kBSMobile/raw/master/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
   <repositoryUrls/>
   <dataIndexEntries>
-    <dataIndexEntry filePath="WH40k_8th.gstz" dataType="gamesystem" dataId="0b29-8e58-e248-9ac9" dataName="WH40k 8th" dataBattleScribeVersion="2.01" dataRevision="15"/>
+    <dataIndexEntry filePath="WH40k_8th.gstz" dataType="gamesystem" dataId="0b29-8e58-e248-9ac9" dataName="WH40k 8th" dataBattleScribeVersion="2.01" dataRevision="16"/>
     <dataIndexEntry filePath="Genestealer_Cults.catz" dataType="catalogue" dataId="f705-eb96-44d8-0c9f" dataName="Genestealer_Cults" dataBattleScribeVersion="2.01" dataRevision="2"/>
     <dataIndexEntry filePath="Necrons.catz" dataType="catalogue" dataId="5acc-fe80-f455-974f" dataName="Necrons" dataBattleScribeVersion="2.01" dataRevision="2"/>
     <dataIndexEntry filePath="Tyranids.catz" dataType="catalogue" dataId="eedb-8bca-80cb-1f1b" dataName="Tyranids" dataBattleScribeVersion="2.01" dataRevision="2"/>
