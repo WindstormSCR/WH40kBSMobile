@@ -15,6 +15,7 @@
     <dataIndexEntry filePath="Adeptus_Ministorum.catz" dataType="catalogue" dataId="50ec-a9aa-f7bb-a4e3" dataName="Adeptus Ministorum" dataBattleScribeVersion="2.01" dataRevision="3"/>
     <dataIndexEntry filePath="Space_Marines.catz" dataType="catalogue" dataId="da20-c096-03e4-eadd" dataName="Space Marines" dataBattleScribeVersion="2.01" dataRevision="21"/>
     <dataIndexEntry filePath="Legio_Custodes.catz" dataType="catalogue" dataId="d3c4-44ca-a604-7f3d" dataName="Legio Custodes" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Questor_Imperialis.catz" dataType="catalogue" dataId="4f0b-7acd-13b3-01ff" dataName="Questor Imperialis" dataBattleScribeVersion="2.01" dataRevision="2"/>
     <dataIndexEntry filePath="Orks.catz" dataType="catalogue" dataId="9593-9e16-f7b0-bfc4" dataName="Orks" dataBattleScribeVersion="2.01" dataRevision="4"/>
   </dataIndexEntries>
 </dataIndex>
